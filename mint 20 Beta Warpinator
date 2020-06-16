@@ -1,0 +1,7 @@
+Installed Mint 20 Beta on 2 PC's.
+Both PC's work ok, but Warpinator does not see the other computer.
+Added 42000 port to Firewalld, but Warpinator not working.
+Killed Firewalld Deamon & tested net connection /w Firefox, ok.
+Started Warpinator on both PC's and they now see each other.
+Transferred files ok.
+So, what info should I set in the Firewalld config so that Warpinator will work ?

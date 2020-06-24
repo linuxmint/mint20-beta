@@ -17,7 +17,7 @@ Please be aware that a vast majority of reported issues do not get fixed because
 - They affect components which are upstream from us (proprietary drivers, or components which are maintained by Debian/Ubuntu)
 - They're beyond the scope
 
-What we look for the most during a point release BETA phase are regressions coming from us. If an issue is new, and it's specific to this release, and it's about a component we develop, then we should be able to fix rapidly and that's our primary target during the BETA phase.
+What we look for the most during a BETA phase are regressions coming from us. If an issue is new, and it's specific to this release, and it's about a component we develop, then we should be able to fix rapidly and that's our primary target during the BETA phase.
 
 That's not to say we shouldn't fix other issues. If we have clear feedback and clear understand of upstream issues, we can fix these as well. But in those few days between BETA and STABLE, we're literally in a rush, to fix as many issues as possible, so we're really looking for the ones where we can make a difference.
 
